@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100096886786",
+    "project_id": "break-the-code-8605a",
+    "storage_bucket": "break-the-code-8605a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100096886786:android:b0f11d91cd0465a8cb3f1b",
+        "android_client_info": {
+          "package_name": "com.example.breakthecode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100096886786-lkg2ijh52sa92fsmvt53rhkng52gict4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr0gH01Dn74dQZxvoRave5k7EvMCNNKDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100096886786-lkg2ijh52sa92fsmvt53rhkng52gict4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
