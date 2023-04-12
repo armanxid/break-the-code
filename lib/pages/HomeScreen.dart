@@ -17,10 +17,7 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     var controller = Get.put(AppController());
-    if (auth.currentUser != null) {
-      print(auth.currentUser!.email);
-      print(controller.getPosts.length);
-    }
+    if (auth.currentUser != null) {}
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Color.fromARGB(255, 152, 241, 155),

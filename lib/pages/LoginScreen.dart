@@ -88,7 +88,7 @@ class _LoginScreenState extends State<LoginScreen> {
                       .signInWithEmailAndPassword(
                           email: _emailController.text,
                           password: _passwordController.text)
-                      .then((value) => Get.toNamed(RouteName.homePage));
+                      .then((value) => Get.offAll(HomeScreen()));
                 },
               ),
             ),
